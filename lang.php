@@ -1,0 +1,1 @@
+<?php require_once 'config/config.php'; $_SESSION['lang']=(($_GET['l']??'en')==='bn'?'bn':'en'); header('Location: '.($_SERVER['HTTP_REFERER']??'index.php')); exit;
