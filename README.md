@@ -14,5 +14,3 @@ A PHP 8.3 + MySQL/MariaDB web application for hostel/mess money, meals, bazar, e
 3. Edit `config/config.php`.
 4. Run `php -S localhost:8000 -t .`
 5. Open http://localhost:8000
-
-For a free online demo, see the deployment guide in the chat response.
